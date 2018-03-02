@@ -7,10 +7,8 @@ namespace NewConsole
         
         static void Main(string[] args)
         {
-            string name;
             Console.WriteLine("Hello BITCHES!! State yer name: ");
-            name = Console.ReadLine().ToString();
-
+            string name = Console.ReadLine().ToString(); 
             Console.WriteLine("Happy f#cking Birthday, " + name);
         }
     }
