@@ -9,7 +9,7 @@ namespace NewConsole
         {
             string name;
             Console.WriteLine("Hello BITCHES!! State yer name: ");
-            name = Console.ReadLine();
+            name = Console.ReadLine().ToString();
 
             Console.WriteLine("Happy f#cking Birthday, " + name);
         }
