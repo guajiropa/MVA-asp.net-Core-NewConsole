@@ -1,0 +1,10 @@
+C:\Users\guaji\source\repos\MVA\NewConsole\bin\Debug\netcoreapp2.0\NewConsole.deps.json
+C:\Users\guaji\source\repos\MVA\NewConsole\bin\Debug\netcoreapp2.0\NewConsole.runtimeconfig.json
+C:\Users\guaji\source\repos\MVA\NewConsole\bin\Debug\netcoreapp2.0\NewConsole.runtimeconfig.dev.json
+C:\Users\guaji\source\repos\MVA\NewConsole\bin\Debug\netcoreapp2.0\NewConsole.dll
+C:\Users\guaji\source\repos\MVA\NewConsole\bin\Debug\netcoreapp2.0\NewConsole.pdb
+C:\Users\guaji\source\repos\MVA\NewConsole\obj\Debug\netcoreapp2.0\NewConsole.csproj.CoreCompileInputs.cache
+C:\Users\guaji\source\repos\MVA\NewConsole\obj\Debug\netcoreapp2.0\NewConsole.AssemblyInfoInputs.cache
+C:\Users\guaji\source\repos\MVA\NewConsole\obj\Debug\netcoreapp2.0\NewConsole.AssemblyInfo.cs
+C:\Users\guaji\source\repos\MVA\NewConsole\obj\Debug\netcoreapp2.0\NewConsole.dll
+C:\Users\guaji\source\repos\MVA\NewConsole\obj\Debug\netcoreapp2.0\NewConsole.pdb
